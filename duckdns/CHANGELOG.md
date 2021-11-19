@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.14.1
+
+- move container to new s6 init system
+
 ## 1.14.0
 
 - Add option to specify algorithm used for SSL certificates
